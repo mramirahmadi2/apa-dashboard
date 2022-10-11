@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "sharedBy": "AlPacino",
+      "permissions": [{ "EDIT": 0 }, { "SHARE": 1 }, { "DELETE": 0 }],
+      "items": [
+        { "id": 1, "name": "File #1", "type": "folder" },
+        { "id": 2, "name": "File #2", "type": "folder" },
+        {
+          "id": 3,
+          "name": "Child #3",
+          "type": "file",
+          "children": [
+            { "id": 5, "name": "Grandchild #1", "type": "folder" },
+            { "id": 6, "name": "Grandchild #2", "type": "folder" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sharedBy": "Bahramian",
+      "permissions": [{ "EDIT": 1 }, { "SHARE": 1 }, { "DELETE": 1 }],
+      "items": [
+        { "id": 1, "name": "File #1", "type": "folder" },
+        { "id": 2, "name": "File #2", "type": "folder" },
+        {
+          "id": 3,
+          "name": "Child #3",
+          "type": "file",
+          "children": [
+            { "id": 5, "name": "Grandchild #1", "type": "folder" },
+            { "id": 6, "name": "Grandchild #2", "type": "folder" }
+          ]
+        }
+      ]
+    }
+  ]

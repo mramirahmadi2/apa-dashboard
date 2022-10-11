@@ -1,0 +1,30 @@
+
+.ltr-seting {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+.searchAndBtn {
+  display: flex;
+  justify-content: space-around;
+}
+.flex-apa {
+  display: flex;
+  justify-content: space-between;
+}
+.body{
+  margin-top: 2rem;
+}
+.form_header{
+  display: flex;
+  justify-content:space-between;
+  align-items: flex-start;
+}
+.translaton {
+  position: relative;
+  left: 74%;
+}
+.appendRight{
+  float: right;
+}

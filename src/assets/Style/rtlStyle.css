@@ -1,0 +1,23 @@
+.rtl-seting {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+.margin-right {
+  margin-right: 3rem;
+}
+.left-for-menu-icons{
+  margin-left: 20px;
+ 
+}
+.rtl-translaton{
+  position: relative;
+  right: 75%;
+}
+.a-rtl-mr-1{
+  margin-right: 8px;
+}
+.appendLeft{
+  float: left;
+}
